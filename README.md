@@ -1,4 +1,5 @@
 # kit-tea.github.io
+Testing to read about myself etc. Need to stalk other blogs for content.
 
 ## Welcome to GitHub Pages
 
