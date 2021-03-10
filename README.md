@@ -5,7 +5,22 @@ My name is Kitty. I'm currently a student with AWS re/Start learning Cloud Compu
 I've been so happy to study Cloud Computing with AWS. It's really comprehensive and so far I've learned and experienced a lot of different technologies. I had a background in IT but this has let me get into the minutiae of how systems work. Some are systems I've worked with for years that I now understand more fully.
 
 ### Linux
+The Bash challenge: Automatically generating twenty five numbered files. We learned all the details of the distros and I created and modified the directories and containing files.
 
+![Image](src) ![Image](src)
+
+The code itself was simple.
+
+```
+#!/bin/bash
+
+#creating 25 empty files with naming convention [name]1 [name]2 [name]3 and so on
+
+touch Kitty{1..25}.txt
+```
+![Image](src)
+
+Originally the brief said that each time we run the script it should automatically create the next 25 files in sequence so I've been working on that as a side project.
 
 ## Welcome to GitHub Pages
 
@@ -48,7 +63,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 REWARD!! [Link](https://i.imgur.com/Vs8FqPI.mp4)
 
 ## Contact
-![Image](https://raw.githubusercontent.com/Kit-tea/kit-tea.github.io/UpdatestoREADME/img/iconmonstr-github-1-48.png) [GitHub](https://github.com/Kit-tea)
+![https://github.com/Kit-tea](https://raw.githubusercontent.com/Kit-tea/kit-tea.github.io/UpdatestoREADME/img/iconmonstr-github-1-48.png) [GitHub](https://github.com/Kit-tea)
 
 ![Image](https://raw.githubusercontent.com/Kit-tea/kit-tea.github.io/UpdatestoREADME/img/iconmonstr-linkedin-2-48.png) [LinkedIn](https://www.linkedin.com/in/kitty-nicholas-3290821b7/)
 
