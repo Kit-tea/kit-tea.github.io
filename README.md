@@ -8,7 +8,7 @@ My name is Kitty. I'm currently a student with AWS re/Start learning Cloud Compu
 
 ![Image](src)
 
-![Image](src)
+![Image](https://raw.githubusercontent.com/Kit-tea/kit-tea.github.io/ead34605076404ea87e9932af8b6bba8f3a2f8bf/img/iconmonstr-cv-3-48.png)
 
 
 ## Welcome to GitHub Pages
