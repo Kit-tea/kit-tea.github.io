@@ -1,11 +1,15 @@
 # Welcome
 My name is Kitty. I'm currently a student with AWS re/Start learning Cloud Computing. I'm also a former IT administrator, ITIL certified first line help desk support and freelance copy editor.
 
-### Contact
+## Contact
 ![Image](src)
+
 ![Image](src)
+
 ![Image](src)
+
 ![Image](src)
+
 
 ## Welcome to GitHub Pages
 
