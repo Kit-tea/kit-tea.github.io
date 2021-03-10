@@ -1,5 +1,11 @@
-# kit-tea.github.io
-Testing to read about myself etc. Need to stalk other blogs for content.
+# Welcome
+My name is Kitty. I'm currently a student with AWS re/Start learning Cloud Computing. I'm also a former IT administrator, ITIL certified first line help desk support and freelance copy editor.
+
+### Contact
+![Image](src)
+![Image](src)
+![Image](src)
+![Image](src)
 
 ## Welcome to GitHub Pages
 
