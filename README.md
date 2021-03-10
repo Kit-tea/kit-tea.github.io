@@ -101,7 +101,7 @@ I'd be very interested to advancing my relational and nonrelational database kno
 
 [Review Quiz Results](https://realpython.com/quizzes/python-csv/results/?t=eyJjIjo3LCJuIjo3LCJxIjozNCwic2lnIjoid2FsYWpfKDY4OzZKK3hQJnZYM3Y-YGZPcXdeOXdiMX1YIUZWODxSeSIsInQiOjI5NywidiI6M30=)
 
-## Web Design
+### Web Design
 
 I am still very interested in learning HTML and CSS for the purpose of web design. I have used basic commands before on personal webpages but would like to gather more in depth experience in order to build more sophisticated pages and build my own portfolio. You can see some of my knowledge in play in the [Online-CV](https://kit-tea.github.io/online-cv/)
 
@@ -128,51 +128,23 @@ I am still very interested in learning HTML and CSS for the purpose of web desig
 - I proofread content for spelling and grammar errors.
 - Freelancing also provided opportunities to self-motivate and manage my own time.
 
-### Education
+## Education
 
 ![Image](https://raw.githubusercontent.com/Kit-tea/kit-tea.github.io/UpdatestoREADME/img/swansea-university-2017.en.png) ![Image](https://raw.githubusercontent.com/Kit-tea/kit-tea.github.io/UpdatestoREADME/img/restart%20image.jpg)
 
-Amazon Re/Start Cloud Computing 			          		   TechTalent Bristol Cohort
-2014-2016: MA, English Literature                      Swansea University
-2010-2013: BA, English Literature & Creative Writing   Swansea University
+- Amazon Re/Start Cloud Computing 			          		   TechTalent Bristol Cohort
+- 2014-2016: MA, English Literature                      Swansea University
+- 2010-2013: BA, English Literature & Creative Writing   Swansea University
 
-## Welcome to GitHub Pages
+## Skills
 
-You can use the [editor on GitHub](https://github.com/Kit-tea/kit-tea.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kit-tea/kit-tea.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-	ITIL Foundation qualification
+-	Holder of a full, clean drivers license 
+-	Customer Service
+-	Team / Collaborative Working 
+-	Communication - Written & Verbal
+-	Organisation - Personal & Event-Based
+-	Social Media Management 
 
 ## Contact
 ![Image](https://raw.githubusercontent.com/Kit-tea/kit-tea.github.io/UpdatestoREADME/img/iconmonstr-github-1-48.png) [GitHub](https://github.com/Kit-tea)
