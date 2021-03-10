@@ -1,6 +1,10 @@
 # Welcome
-My name is Kitty. I'm currently a student with AWS re/Start learning Cloud Computing. I'm also a former IT administrator, ITIL certified first line help desk support and freelance copy editor.
+My name is Kitty. I'm currently a student with AWS re/Start learning Cloud Computing. I'm also a former IT administrator, ITIL certified, first line help desk support and freelance copy editor.
 
+## AWS Re/Start
+I've been so happy to study Cloud Computing with AWS. It's really comprehensive and so far I've learned and experienced a lot of different technologies. I had a background in IT but this has let me get into the minutiae of how systems work. Some are systems I've worked with for years that I now understand more fully.
+
+### Linux
 
 
 ## Welcome to GitHub Pages
