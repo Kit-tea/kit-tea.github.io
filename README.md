@@ -103,7 +103,7 @@ I'd be very interested to advancing my relational and nonrelational database kno
 
 ### Web Design
 
-I am still very interested in learning HTML and CSS for the purpose of web design. I have used basic commands before on personal webpages but would like to gather more in depth experience in order to build more sophisticated pages and build my own portfolio. You can see some of my knowledge in play in the [Online-CV](https://kit-tea.github.io/online-cv/)
+I am still very interested in learning HTML and CSS for the purpose of web design. I have used basic commands before on personal webpages but would like to gather more in depth experience in order to build more sophisticated pages and build my own portfolio.
 
 # Experience
 
@@ -151,7 +151,4 @@ I am still very interested in learning HTML and CSS for the purpose of web desig
 
 ![Image](https://raw.githubusercontent.com/Kit-tea/kit-tea.github.io/UpdatestoREADME/img/iconmonstr-linkedin-2-48.png) [LinkedIn](https://www.linkedin.com/in/kitty-nicholas-3290821b7/)
 
-![Image](https://raw.githubusercontent.com/Kit-tea/kit-tea.github.io/UpdatestoREADME/img/iconmonstr-download-2-48.png) [Online CV](https://kit-tea.github.io/online-cv/)
-
-![Image](https://raw.githubusercontent.com/Kit-tea/kit-tea.github.io/ead34605076404ea87e9932af8b6bba8f3a2f8bf/img/iconmonstr-cv-3-48.png) [CV Download](url)
 
